@@ -1,0 +1,15 @@
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.csproj.AssemblyReference.cache
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.AssemblyInfoInputs.cache
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.AssemblyInfo.cs
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.csproj.CoreCompileInputs.cache
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\bin\Debug\net6.0\Lesson_2.exe
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\bin\Debug\net6.0\Lesson_2.deps.json
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\bin\Debug\net6.0\Lesson_2.runtimeconfig.json
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\bin\Debug\net6.0\Lesson_2.dll
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\bin\Debug\net6.0\Lesson_2.pdb
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.dll
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\refint\Lesson_2.dll
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.pdb
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\Lesson_2.genruntimeconfig.cache
+D:\РАЗНОЕ\Users\akhme\OneDrive\Desktop\GB\Буткемп. Программирование\Lesson_2\obj\Debug\net6.0\ref\Lesson_2.dll
